@@ -1,6 +1,6 @@
 ## Unreleased
 
-- [#PR ID] Add your changelog entry here.
+- [#226] Respect Doorkeeper's configured `pkce_code_challenge_methods`
 
 ## v1.8.11 (2025-02-10)
 
